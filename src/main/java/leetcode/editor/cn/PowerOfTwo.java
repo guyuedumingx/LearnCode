@@ -21,6 +21,17 @@ package leetcode.editor.cn;
 // Related Topics 位运算 数学 
 // 👍 242 👎 0
 
+//2 0
+//1
+//2 1
+//10
+//2 2
+//100
+//011
+//2 3
+//1000
+//0111
+
 public class PowerOfTwo{
     public static void main(String[] args) {
         Solution solution = new PowerOfTwo().new Solution();
